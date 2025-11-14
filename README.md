@@ -42,6 +42,12 @@ screenshots/
     └── splash_screen.png
 ```
 
+<p align="center">
+  <img src="screenshots/splash_screen.png" width="300" alt="splash_screen">
+  <img src="screenshots/home_screen.png" width="300" alt="home_screen">
+  <img src="screenshots/detail_screen.png" width="300" alt="detail_screen">
+</p>
+
 ## 👤 Author
 ```
 Name: Brillian Andrie Nugroho Wiguno
